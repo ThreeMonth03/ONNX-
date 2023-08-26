@@ -7,8 +7,8 @@
 2. Execute LAB1.ipynb in the jupyter.
 3. ONNX file is in the ./model, and you can see the result by pushing the model to Netron (https://netron.app/).
 
-## Result
-### Run shape inference to get the shape of all tensors
+### Result
+#### Run shape inference to get the shape of all tensors
 The following informations are the shapes of all tensors, and you can see the complete log in the LAB1.ipynb .
 ```txt
 After shape inference: 
@@ -35,7 +35,7 @@ type {
 }
 ....
 ```
-### Netron
+#### Netron
 Before modifying input:
 <img src="https://i.imgur.com/ZZRP7Ib.png">
 
